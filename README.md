@@ -7,3 +7,9 @@ Each individual within the population was made up of binary bits of 1s and 0s an
 1. Clone repo via cmdline
 2. Navigate to cloned folder path
 3. Type [python genetic_solution.py]
+
+# Alter running without crossover element
+1. Set runGA(50, 0.0, 0.001)
+
+# Alter running with crossover element
+1. Set runGA(50, 0.7, 0.001)
